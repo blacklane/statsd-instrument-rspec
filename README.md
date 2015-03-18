@@ -1,6 +1,6 @@
 # statsd-instrument-rspec
 
-[![Build Status](https://travis-ci.org/blacklane/statsd-instrument-rspec.svg?branch=master)](https://travis-ci.org/blacklane/statsd-instrument-rspec) [![Coverage Status](https://coveralls.io/repos/blacklane/statsd-instrument-rspec/badge.svg?branch=master)](https://coveralls.io/r/blacklane/statsd-instrument-rspec?branch=master) [![Code Climate](https://codeclimate.com/github/blacklane/statsd-instrument-rspec/badges/gpa.svg)](https://codeclimate.com/github/blacklane/statsd-instrument-rspec)
+[![Build Status](https://travis-ci.org/blacklane/statsd-instrument-rspec.svg?branch=master)](https://travis-ci.org/blacklane/statsd-instrument-rspec) [![Coverage Status](https://coveralls.io/repos/blacklane/statsd-instrument-rspec/badge.svg?branch=master)](https://coveralls.io/r/blacklane/statsd-instrument-rspec?branch=master) [![Code Climate](https://codeclimate.com/github/blacklane/statsd-instrument-rspec/badges/gpa.svg)](https://codeclimate.com/github/blacklane/statsd-instrument-rspec) [![Dependency Status](https://gemnasium.com/blacklane/statsd-instrument-rspec.svg)](https://gemnasium.com/blacklane/statsd-instrument-rspec)
 
 RSpec 3 matchers for `statsd-instrument`.
 
