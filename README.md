@@ -1,5 +1,7 @@
 # statsd-instrument-rspec
 
+[![Build Status](https://travis-ci.org/blacklane/statsd-instrument-rspec.svg?branch=master)](https://travis-ci.org/blacklane/statsd-instrument-rspec)
+
 RSpec 3 matchers for `statsd-instrument`.
 
 ## Installation
