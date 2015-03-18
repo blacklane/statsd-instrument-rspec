@@ -1,5 +1,12 @@
-# Keep SimpleCov on the very top to ensure correct code coverage reporting
+# Keep SimpleCov & coveralls on the very top to ensure correct code coverage reporting
+
 require "simplecov"
+require "coveralls"
+
+SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter[
+  SimpleCov::Formatter::HTMLFormatter,
+  Coveralls::SimpleCov::Formatter
+]
 SimpleCov.start do
   add_filter "/spec/"
   add_filter "/vendor/"
