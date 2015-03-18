@@ -1,6 +1,6 @@
 # statsd-instrument-rspec
 
-[![Build Status](https://travis-ci.org/blacklane/statsd-instrument-rspec.svg?branch=master)](https://travis-ci.org/blacklane/statsd-instrument-rspec)
+[![Build Status](https://travis-ci.org/blacklane/statsd-instrument-rspec.svg?branch=master)](https://travis-ci.org/blacklane/statsd-instrument-rspec) [![Code Climate](https://codeclimate.com/github/blacklane/statsd-instrument-rspec/badges/gpa.svg)](https://codeclimate.com/github/blacklane/statsd-instrument-rspec)
 
 RSpec 3 matchers for `statsd-instrument`.
 
